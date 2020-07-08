@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/constant/constant.iml" filepath="$PROJECT_DIR$/constant/constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constant/Constant.iml" filepath="$PROJECT_DIR$/Constant/Constant.iml" />
     </modules>
   </component>
 </project>

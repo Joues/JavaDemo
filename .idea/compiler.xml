@@ -6,15 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="datatype" />
-        <module name="characters" />
-        <module name="helloworld" />
-        <module name="operator" />
-        <module name="constant" />
+        <module name="HelloWorld" />
+        <module name="BigDataValue" />
+        <module name="Characters" />
+        <module name="Operator" />
+        <module name="Constant" />
+        <module name="DataType" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="constant" target="8" />
+      <module name="Constant" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
