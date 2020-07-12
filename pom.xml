@@ -15,6 +15,14 @@
         <module>Operator</module>
         <module>Characters</module>
         <module>BigDataValue</module>
+        <module>Arrays</module>
+        <module>Object</module>
+        <module>Extends</module>
+        <module>Interface</module>
+        <module>Exception</module>
+        <module>Generic</module>
+        <module>Thread</module>
+        <module>Iterator</module>
     </modules>
 
 
