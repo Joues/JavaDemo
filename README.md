@@ -3,8 +3,6 @@
 - 个人站点：[https://www.yihang.ml](https://www.yihang.ml) 欢迎关注！ 该站点主要依托GiHub Page搭建，用于分享相关经验总结。
 - 新网站正在搭建中：[https://www.ityihang.cn](https://www.ityihang.cn) 敬请期待！ 该网站依托独立云服务器，后期会用于搭建本人开发的部分开源项目。
 - 公众号搜索：都说酒是陈的香
-- 关于我：
-> - 普通三本院校毕业，20届应届生
 
 ---
 

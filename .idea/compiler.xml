@@ -11,10 +11,10 @@
         <module name="DataType" />
         <module name="Object" />
         <module name="Characters" />
+        <module name="Generic" />
         <module name="Constant" />
         <module name="Operator" />
         <module name="Thread" />
-        <module name="Generic" />
         <module name="HelloWorld" />
         <module name="Extends" />
         <module name="BigDataValue" />
